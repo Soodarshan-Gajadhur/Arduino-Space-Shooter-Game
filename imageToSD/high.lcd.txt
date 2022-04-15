@@ -1,0 +1,4 @@
+Information for .lcd file: high.lcd
+Source: high.bmp
+Width  (in pixels): 180
+Height (in pixels): 180

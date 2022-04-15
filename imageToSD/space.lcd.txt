@@ -1,0 +1,4 @@
+Information for .lcd file: space.lcd
+Source: space.bmp
+Width  (in pixels): 480
+Height (in pixels): 320

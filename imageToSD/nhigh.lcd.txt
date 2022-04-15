@@ -1,0 +1,4 @@
+Information for .lcd file: nhigh.lcd
+Source: nhigh.bmp
+Width  (in pixels): 150
+Height (in pixels): 120
